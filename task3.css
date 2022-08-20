@@ -1,0 +1,6 @@
+.box{height:100vh;background-size:cover;background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+}
+.h1{background-color:#52606d;text-align: center;color:#ffffff;padding-bottom:15px}
+.a{background-color:#47a3f3;border-radius:10px;border-bottom-left-radius:5px;text-align: right;color:#ffffff;padding:25px;font-size:25px;font-family:"Roboto";}
+.b{background-color:#52606d;border-radius:10px;border-bottom-left-radius:5px;text-align: left;color:#ffffff;padding:25px;font-size:25px;font-family:"Roboto";}
+
