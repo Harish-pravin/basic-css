@@ -1,0 +1,32 @@
+.a{
+    border:solid;height: 1024px; width: 1280px;background-image:url('https://cdn.stocksnap.io/img-thumbs/960w/sunset-beach_NBETT9PEZG.jpg');
+    background-repeat: no-repeat;background-size: cover;
+}
+ ol li{
+    display: inline-block;
+    padding: 10px;
+    color: white;
+ }
+.b{
+    font-size: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.c{
+    color: white;
+}
+.d{
+    text-align: right;
+    
+
+}
+.e{
+    padding: 15px;
+}
+.f{
+    display: flex;
+}
+.f img{
+    width:300px;
+    height: 200px;
+}
