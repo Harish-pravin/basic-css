@@ -72,8 +72,8 @@ table tr td{
     text-align: center;
 }
 .k{
-    margin-right: 540px;
-    margin-left: 540px;
+    margin-right: 400px;
+    margin-left: 400px;
 }
 
 .l{
@@ -103,9 +103,13 @@ table tr td{
 }
 .p{
     color: gold;
-    font-size: 30px;
+    font-size: 20px;
 }
 .q{
     color: gold;
-    font-size: 30px
+    font-size: 20px
+}
+.r{
+    height: 10px;
+    width: 10px;
 }
