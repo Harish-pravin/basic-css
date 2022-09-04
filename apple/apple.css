@@ -1,0 +1,195 @@
+.container{
+    border: solid 1px;
+    height: 400%;
+    width: 100%;
+}
+.card{
+    border: solid 1px;
+    width: 100%;
+    height: 50px;
+    background-color: black;
+}
+ul li{
+    color: white;
+    display: inline-block;
+    list-style-type: none;
+    padding:15px;
+    margin-top: -13px;
+    margin-bottom: -13px;
+}
+.card1{
+    border: hidden;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+}
+.card1 li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 7px;
+    margin-top: -10px;
+    margin-bottom: -10px;
+}
+.a{
+    color:blue;
+}
+.card2{
+    border: hidden;
+    height: 500px;
+    width: 100%;
+    text-align: center;
+    background-color: white;
+}
+.card2 li{
+    list-style-type: none;
+    display: inline-block;
+}
+.card2 li h4{
+    color: blue;
+    padding: 10px;
+    margin-top: -30px;
+    margin-bottom: -30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.card3{
+    border: hidden;
+    height: 400px;
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+}
+.card3{
+    border: hidden;
+    height: 300px;
+    width: 30%;
+    margin-right: 480px;
+    margin-left: 480px;
+    background-image: url("https://www.reliancedigital.in/medias/Apple-iPhone-Green-smartphone-content-20.jpg?context=bWFzdGVyfGltYWdlc3wyMjE0MnxpbWFnZS9qcGVnfGltYWdlcy9oODMvaGYyLzk3ODc0OTUwNTUzOTAuanBnfDY1NzY1YzhkZGIxMmZhOGQ1NDkxNTU5ZDBhOWIwNTQ4YWQ4ZWNiMGFhMTJkZWNmMzg2ZTQyZThhMzk5ZDE2Nzc");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.card4{
+    border: hidden;
+    height: 500px;
+    width: 100%;
+    text-align: center;
+    background-color: whitesmoke;
+}
+.card4 li{
+    list-style-type: none;
+    display: inline-block;
+}
+.card4 li h4{
+    color: blue;
+    padding: 10px;
+    margin-top: -30px;
+    margin-bottom: -30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.card5{
+    border: hidden;
+    height: 400px;
+    width: 50%;
+}
+.card5{
+    border: hidden;
+    height: 300px;
+    width: 30%;
+    margin-right: 480px;
+    margin-left: 480px;
+    background-image: url("https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone13-Pro-alpine-green-hero-2up-220308_big_carousel.jpg.large.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.card6{
+    border: hidden;
+    height: 500px;
+    width: 100%;
+    text-align: center;
+}
+button{
+    color: blue;
+}
+.card6 li h4{
+    color: blue;
+    margin-left: -30px;
+    margin-right: -30px;
+    
+}
+.card7{
+    border: solid;
+    height: 400px;
+    width: 50%;
+}
+.card7{
+    border: hidden;
+    height: 300px;
+    width: 30%;
+    margin-right: 480px;
+    margin-left: 480px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    background-image: url("https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/bts-header-hero-airpods-geoalt-202206?wid=948&hei=986&fmt=png-alpha&.v=1654669403404");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.card8{
+    border: hidden;
+    height: 400px;
+    width: 100%;
+    display: inline-flex;
+ 
+}
+.card9{
+    border: hidden;
+    height: 400px;
+    width: 50%;
+    background-image: url("https://www.apple.com/v/apple-events/home/x/images/overview/hero/fall-2022/hero_announce__bwxm3afyufua_large.jpg");
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+.card10{
+    border: hidden;
+    height: 400px;
+    width: 50%;
+    background-image: url("https://www.apple.com/v/apple-watch-series-7/d/images/overview/health/health_ecg__er9319ucoumq_large.jpg");
+    background-size: cover;
+    text-align: center;
+    opacity: 0.8;
+ 
+}
+.card9 dl{
+    margin-bottom: 257px;
+    margin-top: 257px;
+}
+.card10 li{
+    color: blue;
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+}
+.card11{
+    border: hidden;
+    height: 400px;
+    width: 100%;
+    display: inline-flex;
+}
+.card12{
+    border: hidden;
+    height: 400px;
+    width: 50%;
+    background-image: url("https://www.apple.com/v/macbook-air-m2/b/images/overview/design/finish_spacegray__bewoj5o9pcaa_large.jpg");
+    background-size: cover;
+}
+.card13{
+    border: hidden;
+    height: 400px;
+    width: 50%;
+    background-image: url("https://www.apple.com/v/ipad-air/r/images/overview/features/iris__fnhnshkpwl6y_large.jpg");
+    background-size: cover;
+}
+
+  
+  
